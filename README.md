@@ -1,4 +1,4 @@
-# Python Program: Build an Expression Tree and Print Inorder and Postorder Traversals
+# Build an Expression Tree and Print Inorder and Postorder Traversals
 
 ## Aim
 To build an expression tree from a predefined list of operators and operands, and perform inorder and postorder traversals on the tree.
